@@ -1,6 +1,6 @@
 # Ansible Custom Modules
 
-## Installig Ansible in Python Virtual Environment
+## Installing Ansible in Python Virtual Environment
 
 - Create Python Virtual Environment
   - $ virtualenv venv
